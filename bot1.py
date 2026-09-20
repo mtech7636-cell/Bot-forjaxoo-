@@ -33,8 +33,8 @@ from Crypto.Hash import SHA1
 # CONFIG / CONSTANTS
 #-----------------------------
 
-BOT_TOKEN = "ninte bot token ivide add akk"
-ADMIN_ID = [6938251316]
+BOT_TOKEN = "8862293216:AAEEGQtFEaq0RWMAcKz12kuq98so9hmNtPs"
+ADMIN_ID = [7199272008]
 OWNER_USERNAME = "@markocpm"
 
 COIN_FILE = "coins.json"
