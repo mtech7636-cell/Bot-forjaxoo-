@@ -33,7 +33,9 @@ from Crypto.Hash import SHA1
 # CONFIG / CONSTANTS
 #-----------------------------
 
-BOT_TOKEN = "8862293216:AAEEGQtFEaq0RWMAcKz12kuq98so9hmNtPs"
+BOT_TOKEN = import os
+
+BOT_TOKEN = os.environ.get("8862293216:AAEEGQtFEaq0RWMAcKz12kuq98so9hmNtPs")
 ADMIN_ID = [7199272008]
 OWNER_USERNAME = "@markocpm"
 
